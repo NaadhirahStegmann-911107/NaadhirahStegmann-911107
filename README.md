@@ -22,7 +22,7 @@ Other: Work in progress
 🌟 Featured Projects
 These are some of my favorite projects that showcase my skills and passion:
 
-Pet Validation Website ([Repository Link](https://github.com/NaadhirahStegmann-911107/Module_1_NAASTE24037_PTO2409_Group_A_Naadhirah-Stegmann_JSL01)):building a virtual pet adoption website, and you need to create a JavaScript function that checks if the user has entered valid pet adoption details. Write a function that takes a string as input and validates if it follows a specific syntax, such as starting with "pet_" followed by a combination of letters and numbers. If the input follows the syntax, return "Valid Syntax," otherwise, return "Invalid Syntax."Tech Stack: Simple JavaScript
+Pet Validation Website (https://github.com/NaadhirahStegmann-911107/Module_1_NAASTE24037_PTO2409_Group_A_Naadhirah-Stegmann_JSL01):building a virtual pet adoption website, and you need to create a JavaScript function that checks if the user has entered valid pet adoption details. Write a function that takes a string as input and validates if it follows a specific syntax, such as starting with "pet_" followed by a combination of letters and numbers. If the input follows the syntax, return "Valid Syntax," otherwise, return "Invalid Syntax."Tech Stack: Simple JavaScript
 
 Mars Climate Orbitor Challenge (https://github.com/NaadhirahStegmann-911107/NAASTE24037_PTO2409_Group_A_Naadhirah-Stegmann_DJS01):The Mars Climate Orbiter incident in 1999 is a stark reminder of the importance of precision in space missions, highlighting how a simple unit mismatch led to the loss of the spacecraft. This challenge seeks to simulate similar challenges in a spacecraft navigation system, emphasising the need for accuracy in calculations.
 Challenge Overview
